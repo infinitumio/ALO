@@ -15,6 +15,15 @@ SHA256SUMS.txt
 
 A release only lists the platforms that are ready. Today that is macOS; Windows and Linux will follow.
 
+## Install on macOS
+
+macOS 13 or later.
+
+1. Download the `.dmg`. Universal works on Apple silicon and Intel.
+2. Open it.
+3. Drag ALO into Applications.
+4. Launch ALO.
+
 ## Versioning
 
 Semantic versioning. `0.x.y` during early development, `1.0.0` when ALO is stable. Tags look like `v0.4.0`.
