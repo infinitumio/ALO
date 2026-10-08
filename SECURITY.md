@@ -16,8 +16,7 @@ Security fixes ship in the latest release. Please update before reporting.
 Please do not open a public issue for security problems.
 
 1. Use GitHub's private reporting: [Report a vulnerability](https://github.com/infinitumio/ALO/security/advisories/new).
-2. Or email **security@[domain]**.
-   > Placeholder: replace this address before public launch.
+2. Or email **security@al0.io**.
 
 Include:
 

@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://alo-ebon-two.vercel.app/">Website</a> · <a href="https://github.com/infinitumio/ALO/releases/latest">Download</a> · <a href="https://github.com/infinitumio/ALO/releases">Releases</a>
+  <a href="https://al0.io/">Website</a> · <a href="https://github.com/infinitumio/ALO/releases/latest">Download</a> · <a href="https://github.com/infinitumio/ALO/releases">Releases</a>
 </p>
 
 <br />
