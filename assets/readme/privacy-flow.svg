@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" role="img" aria-label="Activity signals, events, sessions, memories and compressed context stay on your device. Only compressed context can optionally go to an AI provider.">
+  <style>
+    .t { font: 600 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, sans-serif; fill: #121211; }
+    .s { font: 12px ui-monospace, "SF Mono", Menlo, Consolas, monospace; fill: #6b675e; }
+    .k { font: 600 11px ui-monospace, "SF Mono", Menlo, Consolas, monospace; fill: #6b675e; letter-spacing: .12em; }
+  </style>
+  <rect width="760" height="400" rx="20" fill="#f4f2ec"/>
+  <!-- device boundary -->
+  <rect x="28" y="28" width="452" height="344" rx="18" fill="#fbfaf6" stroke="#121211" stroke-width="1.5"/>
+  <text x="52" y="60" class="k">YOUR DEVICE</text>
+  <g transform="translate(52 78)">
+    <rect width="404" height="44" rx="10" fill="#fff" stroke="#e0dcd2"/>
+    <text x="18" y="27" class="t">Activity signals</text><text x="386" y="27" class="s" text-anchor="end">apps, focus, commits</text>
+  </g>
+  <g transform="translate(52 136)">
+    <rect width="404" height="44" rx="10" fill="#fff" stroke="#e0dcd2"/>
+    <text x="18" y="27" class="t">Events</text><text x="386" y="27" class="s" text-anchor="end">small, structured</text>
+  </g>
+  <g transform="translate(52 194)">
+    <rect width="404" height="44" rx="10" fill="#fff" stroke="#e0dcd2"/>
+    <text x="18" y="27" class="t">Sessions</text><text x="386" y="27" class="s" text-anchor="end">grouped across apps</text>
+  </g>
+  <g transform="translate(52 252)">
+    <rect width="404" height="44" rx="10" fill="#fff" stroke="#e0dcd2"/>
+    <text x="18" y="27" class="t">Memories</text><text x="386" y="27" class="s" text-anchor="end">local database</text>
+  </g>
+  <g transform="translate(52 310)">
+    <rect width="404" height="44" rx="10" fill="#121211"/>
+    <text x="18" y="27" class="t" style="fill:#f4f2ec">Compressed context</text><text x="386" y="27" class="s" text-anchor="end" style="fill:#b9b4a8">bytes, not history</text>
+  </g>
+  <!-- connectors inside the device -->
+  <g stroke="#cfcabe" stroke-width="1.5" stroke-linecap="round">
+    <path d="M254 122v14M254 180v14M254 238v14M254 296v14"/>
+  </g>
+  <!-- optional path out -->
+  <path d="M458 332H532" stroke="#121211" stroke-width="1.5" stroke-dasharray="4 5" stroke-linecap="round"/>
+  <path d="M524 326l9 6-9 6" fill="none" stroke="#121211" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="636" y="288" class="s" text-anchor="middle">optional</text>
+  <g transform="translate(538 300)">
+    <rect width="196" height="64" rx="12" fill="#fff" stroke="#121211" stroke-width="1.5"/>
+    <text x="98" y="30" class="t" text-anchor="middle">AI</text>
+    <text x="98" y="48" class="s" text-anchor="middle">local, your key, or ALO</text>
+  </g>
+  <text x="636" y="96" class="t" text-anchor="middle">Never leaves</text>
+  <text x="636" y="118" class="s" text-anchor="middle">raw history</text>
+  <text x="636" y="136" class="s" text-anchor="middle">screenshots</text>
+  <text x="636" y="154" class="s" text-anchor="middle">keystrokes</text>
+  <text x="636" y="172" class="s" text-anchor="middle">documents</text>
+  <text x="636" y="190" class="s" text-anchor="middle">browsing history</text>
+</svg>

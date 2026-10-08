@@ -1,0 +1,54 @@
+ALO Proprietary Licence
+
+Copyright (c) 2026 ALO. All rights reserved.
+
+1. Scope
+
+This licence covers the contents of this repository: documentation, images,
+release notes and any compiled ALO applications published in its Releases
+("the Materials"). ALO's application source code is not part of this
+repository and is not licensed here.
+
+2. Using ALO
+
+You may download, install and use the ALO applications published in this
+repository's Releases for your own personal or internal business use.
+
+You may not, except where applicable law expressly permits it:
+  a. copy, modify or create derivative works of the applications;
+  b. decompile, disassemble or reverse engineer them;
+  c. sell, rent, sublicense or redistribute them, or offer them as a service;
+  d. remove or alter any notices, signatures or branding.
+
+3. Building integrations
+
+You may read and implement the ALO Protocol as documented in docs/protocol.md
+in your own software, whether open source or commercial, so that it can
+exchange activity events with ALO. Short excerpts of the protocol
+documentation, such as field names and examples, may be reproduced in your
+own documentation for that purpose.
+
+4. Names, logos and third-party marks
+
+"ALO" and the ALO logo are trademarks of ALO. This licence grants no right to
+use them except to describe, accurately, that your software works with ALO.
+
+Third-party application icons in assets/apps are the trademarks of their
+respective owners and are shown only to identify compatible tools. Their
+sources and licences are listed in assets/apps/NOTICE.md.
+
+5. No warranty
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE MATERIALS OR THEIR
+USE.
+
+6. Termination
+
+This licence ends automatically if you breach it. On termination you must
+stop using and delete the Materials.
+
+All rights not expressly granted are reserved.

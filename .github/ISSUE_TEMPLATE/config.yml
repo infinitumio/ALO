@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/infinitumio/ALO/security/advisories/new
+    about: Please report security problems privately, not as a public issue.
+  - name: Privacy and documentation
+    url: https://github.com/infinitumio/ALO/blob/main/docs/privacy.md
+    about: How ALO handles your data.

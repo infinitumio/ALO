@@ -1,0 +1,41 @@
+name: Integration request
+description: Suggest an application ALO should understand.
+labels: ["integration"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ALO reads structure from the tools you use, never content. Tell us what would help it understand your work in this tool.
+  - type: input
+    id: application
+    attributes:
+      label: Application
+      placeholder: "Linear"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      multiple: true
+      options:
+        - macOS
+        - Windows
+        - Linux
+        - iPhone or iPad
+        - Web
+    validations:
+      required: true
+  - type: textarea
+    id: activity
+    attributes:
+      label: What activity should ALO understand?
+      description: For example which project, issue or file you were working on, and for how long.
+    validations:
+      required: true
+  - type: input
+    id: api
+    attributes:
+      label: Public API docs
+      description: Optional. A link to the tool's public API or event documentation.
+      placeholder: "https://"
